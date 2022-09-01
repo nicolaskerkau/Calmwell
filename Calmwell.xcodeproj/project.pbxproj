@@ -7,16 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		37712E1C28BC93EA00B9BDD4 /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E1B28BC93EA00B9BDD4 /* RectangleCard.swift */; };
+		37712E1E28BC98DE00B9BDD4 /* QuoteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E1D28BC98DE00B9BDD4 /* QuoteModel.swift */; };
+		37712E2028BCC2BE00B9BDD4 /* GetStartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E1F28BCC2BE00B9BDD4 /* GetStartedView.swift */; };
+		37712E2228BDD74600B9BDD4 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2128BDD74600B9BDD4 /* MenuView.swift */; };
+		37712E2428BDD7D000B9BDD4 /* BackgroundBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2328BDD7D000B9BDD4 /* BackgroundBlur.swift */; };
+		37712E2628BDE38F00B9BDD4 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2528BDE38F00B9BDD4 /* CalendarView.swift */; };
+		37712E2828BDE39B00B9BDD4 /* TaskManagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2728BDE39B00B9BDD4 /* TaskManagerView.swift */; };
+		37712E2A28BDE3A600B9BDD4 /* ReminderManagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2928BDE3A600B9BDD4 /* ReminderManagerView.swift */; };
+		37712E2C28BDE3B400B9BDD4 /* NotesManagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2B28BDE3B400B9BDD4 /* NotesManagerView.swift */; };
+		37712E3028BDE59300B9BDD4 /* DiscoveryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E2F28BDE59300B9BDD4 /* DiscoveryView.swift */; };
+		37712E3228BF798C00B9BDD4 /* CalendarMonthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E3128BF798C00B9BDD4 /* CalendarMonthView.swift */; };
+		37712E3428BF79A200B9BDD4 /* CalendarDayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37712E3328BF79A200B9BDD4 /* CalendarDayView.swift */; };
 		37A5E2AD28B17E8D00E1E66C /* CalmwellApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A5E2AC28B17E8D00E1E66C /* CalmwellApp.swift */; };
-		37A5E2AF28B17E8D00E1E66C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A5E2AE28B17E8D00E1E66C /* ContentView.swift */; };
+		37A5E2AF28B17E8D00E1E66C /* CalmwellDashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37A5E2AE28B17E8D00E1E66C /* CalmwellDashboardView.swift */; };
 		37A5E2B128B17E9100E1E66C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37A5E2B028B17E9100E1E66C /* Assets.xcassets */; };
 		37A5E2B428B17E9100E1E66C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37A5E2B328B17E9100E1E66C /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37712E1B28BC93EA00B9BDD4 /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
+		37712E1D28BC98DE00B9BDD4 /* QuoteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteModel.swift; sourceTree = "<group>"; };
+		37712E1F28BCC2BE00B9BDD4 /* GetStartedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStartedView.swift; sourceTree = "<group>"; };
+		37712E2128BDD74600B9BDD4 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		37712E2328BDD7D000B9BDD4 /* BackgroundBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundBlur.swift; sourceTree = "<group>"; };
+		37712E2528BDE38F00B9BDD4 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		37712E2728BDE39B00B9BDD4 /* TaskManagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskManagerView.swift; sourceTree = "<group>"; };
+		37712E2928BDE3A600B9BDD4 /* ReminderManagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderManagerView.swift; sourceTree = "<group>"; };
+		37712E2B28BDE3B400B9BDD4 /* NotesManagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesManagerView.swift; sourceTree = "<group>"; };
+		37712E2F28BDE59300B9BDD4 /* DiscoveryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiscoveryView.swift; sourceTree = "<group>"; };
+		37712E3128BF798C00B9BDD4 /* CalendarMonthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarMonthView.swift; sourceTree = "<group>"; };
+		37712E3328BF79A200B9BDD4 /* CalendarDayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarDayView.swift; sourceTree = "<group>"; };
 		37A5E2A928B17E8D00E1E66C /* Calmwell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calmwell.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37A5E2AC28B17E8D00E1E66C /* CalmwellApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalmwellApp.swift; sourceTree = "<group>"; };
-		37A5E2AE28B17E8D00E1E66C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		37A5E2AE28B17E8D00E1E66C /* CalmwellDashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalmwellDashboardView.swift; sourceTree = "<group>"; };
 		37A5E2B028B17E9100E1E66C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37A5E2B328B17E9100E1E66C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -32,9 +56,93 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		37712E1728BC92C700B9BDD4 /* Task Manager */ = {
+			isa = PBXGroup;
+			children = (
+				37712E3828C0DC3E00B9BDD4 /* Task Models */,
+				37712E2728BDE39B00B9BDD4 /* TaskManagerView.swift */,
+			);
+			path = "Task Manager";
+			sourceTree = "<group>";
+		};
+		37712E1828BC92D300B9BDD4 /* Notes Manager */ = {
+			isa = PBXGroup;
+			children = (
+				37712E3A28C0DC4D00B9BDD4 /* Notes Models */,
+				37712E2B28BDE3B400B9BDD4 /* NotesManagerView.swift */,
+			);
+			path = "Notes Manager";
+			sourceTree = "<group>";
+		};
+		37712E1928BC92DB00B9BDD4 /* Reminders Manager */ = {
+			isa = PBXGroup;
+			children = (
+				37712E3928C0DC4600B9BDD4 /* Reminder Models */,
+				37712E2928BDE3A600B9BDD4 /* ReminderManagerView.swift */,
+			);
+			path = "Reminders Manager";
+			sourceTree = "<group>";
+		};
+		37712E1A28BC92E100B9BDD4 /* Calendar Manager */ = {
+			isa = PBXGroup;
+			children = (
+				37712E3728C0DC3700B9BDD4 /* Calendar Models */,
+				37712E2528BDE38F00B9BDD4 /* CalendarView.swift */,
+				37712E3128BF798C00B9BDD4 /* CalendarMonthView.swift */,
+				37712E3328BF79A200B9BDD4 /* CalendarDayView.swift */,
+			);
+			path = "Calendar Manager";
+			sourceTree = "<group>";
+		};
+		37712E3528C0DBE200B9BDD4 /* Discovery View */ = {
+			isa = PBXGroup;
+			children = (
+				37712E2F28BDE59300B9BDD4 /* DiscoveryView.swift */,
+			);
+			path = "Discovery View";
+			sourceTree = "<group>";
+		};
+		37712E3628C0DBF100B9BDD4 /* Accessory Views */ = {
+			isa = PBXGroup;
+			children = (
+				37712E1B28BC93EA00B9BDD4 /* RectangleCard.swift */,
+				37712E2328BDD7D000B9BDD4 /* BackgroundBlur.swift */,
+			);
+			path = "Accessory Views";
+			sourceTree = "<group>";
+		};
+		37712E3728C0DC3700B9BDD4 /* Calendar Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Calendar Models";
+			sourceTree = "<group>";
+		};
+		37712E3828C0DC3E00B9BDD4 /* Task Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Task Models";
+			sourceTree = "<group>";
+		};
+		37712E3928C0DC4600B9BDD4 /* Reminder Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Reminder Models";
+			sourceTree = "<group>";
+		};
+		37712E3A28C0DC4D00B9BDD4 /* Notes Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "Notes Models";
+			sourceTree = "<group>";
+		};
 		37A5E2A028B17E8D00E1E66C = {
 			isa = PBXGroup;
 			children = (
+				37A5E2AC28B17E8D00E1E66C /* CalmwellApp.swift */,
 				37A5E2AB28B17E8D00E1E66C /* Calmwell */,
 				37A5E2AA28B17E8D00E1E66C /* Products */,
 			);
@@ -51,10 +159,16 @@
 		37A5E2AB28B17E8D00E1E66C /* Calmwell */ = {
 			isa = PBXGroup;
 			children = (
-				37A5E2AC28B17E8D00E1E66C /* CalmwellApp.swift */,
-				37A5E2AE28B17E8D00E1E66C /* ContentView.swift */,
+				37712E3528C0DBE200B9BDD4 /* Discovery View */,
+				37A5E2BA28B17FA700E1E66C /* Views */,
+				37712E1A28BC92E100B9BDD4 /* Calendar Manager */,
+				37712E1728BC92C700B9BDD4 /* Task Manager */,
+				37712E1928BC92DB00B9BDD4 /* Reminders Manager */,
+				37712E1828BC92D300B9BDD4 /* Notes Manager */,
+				37712E3628C0DBF100B9BDD4 /* Accessory Views */,
 				37A5E2B028B17E9100E1E66C /* Assets.xcassets */,
 				37A5E2B228B17E9100E1E66C /* Preview Content */,
+				37712E1D28BC98DE00B9BDD4 /* QuoteModel.swift */,
 			);
 			path = Calmwell;
 			sourceTree = "<group>";
@@ -65,6 +179,16 @@
 				37A5E2B328B17E9100E1E66C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		37A5E2BA28B17FA700E1E66C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				37712E1F28BCC2BE00B9BDD4 /* GetStartedView.swift */,
+				37A5E2AE28B17E8D00E1E66C /* CalmwellDashboardView.swift */,
+				37712E2128BDD74600B9BDD4 /* MenuView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +261,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37A5E2AF28B17E8D00E1E66C /* ContentView.swift in Sources */,
+				37712E1C28BC93EA00B9BDD4 /* RectangleCard.swift in Sources */,
+				37712E3028BDE59300B9BDD4 /* DiscoveryView.swift in Sources */,
+				37712E2428BDD7D000B9BDD4 /* BackgroundBlur.swift in Sources */,
+				37712E2628BDE38F00B9BDD4 /* CalendarView.swift in Sources */,
+				37712E2228BDD74600B9BDD4 /* MenuView.swift in Sources */,
+				37712E2828BDE39B00B9BDD4 /* TaskManagerView.swift in Sources */,
+				37A5E2AF28B17E8D00E1E66C /* CalmwellDashboardView.swift in Sources */,
+				37712E3428BF79A200B9BDD4 /* CalendarDayView.swift in Sources */,
+				37712E2C28BDE3B400B9BDD4 /* NotesManagerView.swift in Sources */,
+				37712E1E28BC98DE00B9BDD4 /* QuoteModel.swift in Sources */,
 				37A5E2AD28B17E8D00E1E66C /* CalmwellApp.swift in Sources */,
+				37712E2A28BDE3A600B9BDD4 /* ReminderManagerView.swift in Sources */,
+				37712E2028BCC2BE00B9BDD4 /* GetStartedView.swift in Sources */,
+				37712E3228BF798C00B9BDD4 /* CalendarMonthView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
