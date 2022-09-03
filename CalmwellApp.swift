@@ -11,7 +11,7 @@ import SwiftUI
 struct CalmwellApp: App {
     var body: some Scene {
         WindowGroup {
-            GetStartedView()
+            GetStartedView().environmentObject(CalendarManagementModel())
         }
     }
 }
